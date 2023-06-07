@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/33804747/155938742-67770857-33b2-4e95-9601-737677895115.png)
+![image](https://github.com/marcin-sadowski/weather-chart-card/assets/6588280/0a699e02-14ec-4dd1-bdcd-11d5c5846e42)
 
 ## Configuration
 
